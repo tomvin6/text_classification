@@ -1,0 +1,7 @@
+Classifier: models\FTClassifier_100B_30E50Layer.pkl Lem:True StopWords:True Validation Acc: 0.6420978029766123
+
+Classifier: models\FTClassifier_100B_30E500Layer.pkl Lem:True StopWords:True Validation Acc: 0.6771793054571226
+Classifier: models\FTClassifier_100B_30E1000Layer.pkl Lem:True StopWords:True Validation Acc: 0.6778880226789511
+Classifier: models\FTClassifier_100B_30E1000Layer.pkl Lem:True StopWords:False Validation Acc: 0.6803685329553508
+Classifier: models\FTClassifier_1000B_30E1000Layer.pkl Lem:True StopWords:False Validation Acc: 0.6727498228206945
+Classifier: models\FTClassifier_16B_30E800Layer.pkl Lem:True StopWords:False Validation Acc: 0.6894046775336641

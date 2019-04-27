@@ -1,0 +1,4 @@
+import numpy as np
+import pandas as pd
+
+pd.read_table('http://bit.ly/chiporders') # assume tab separated
