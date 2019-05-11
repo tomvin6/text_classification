@@ -5,3 +5,9 @@ Classifier: models\FTClassifier_100B_30E1000Layer.pkl Lem:True StopWords:True Va
 Classifier: models\FTClassifier_100B_30E1000Layer.pkl Lem:True StopWords:False Validation Acc: 0.6803685329553508
 Classifier: models\FTClassifier_1000B_30E1000Layer.pkl Lem:True StopWords:False Validation Acc: 0.6727498228206945
 Classifier: models\FTClassifier_16B_30E800Layer.pkl Lem:True StopWords:False Validation Acc: 0.6894046775336641
+Classifier: models\FTClassifier_16B_30Esparse_categorical_crossentropy-Loss_800Layer.pkl Lem:True StopWords:False Validation Acc: 0.6858610914245216
+Classifier: models\2017Plus_FTClassifier_16B_30Esparse_categorical_crossentropy-Loss_800Layer.pkl Lem:True StopWords:False Validation Acc: 0.7513020833333334
+Classifier: models\FTClassifier_16B_30Esparse_categorical_crossentropy-Loss_800Layer.pkl Lem:True StopWords:False Validation Acc: 0.6812544294826365
+Classifier: models\FTClassifier_16B_30Esparse_categorical_crossentropy-Loss_800Layer.pkl Lem:True StopWords:False Validation Acc: 0.6812544294826365
+Classifier: models\FTClassifier_16B_30Esparse_categorical_crossentropy-Loss_800Layer.pkl Lem:True StopWords:False Validation Acc: 0.7569444444444444
+Classifier: models\FTClassifier_16B_30Esparse_categorical_crossentropy-Loss_800Layer.pkl Lem:True StopWords:False Validation Acc: 0.7072567962255673
